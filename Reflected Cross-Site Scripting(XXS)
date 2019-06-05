@@ -1,0 +1,8 @@
+Cookie
+: JSESSIONID= Putin the JSESSIONID server responded back 
+
+pageName=web_policy_holder_info_search.jsp&mode=S"><script>alert(11112686)</script>&err_msg=&last_name=test&first_name=testig&middle_name=&birthDate=26-Jul-2022&pol_no= 
+
+
+
+For the above example if the browser responds back with a frame window, site is vulnerable to Reflected-XXS
