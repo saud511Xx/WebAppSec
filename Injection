@@ -1,0 +1,7 @@
+Listed Number on OWASP Top 10. 
+Mitigation:
+1. Filtering, Validating, Encoding and Escaping 
+2. Query Parameterisation
+RealWorld Examples:
+https://hackerone.com/reports/358570
+https://hackerone.com/reports/273946
